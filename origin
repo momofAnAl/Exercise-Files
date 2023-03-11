@@ -1,0 +1,31 @@
+[?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name "~/Documents/Python_Practice/Ex_Files_Programming
+[23;80H_[24;1HFoundations_Fundamentals/Exercise Files/.git/.COMMIT_EDITMSG.swp"
+[10Cowned by: anhtran   dated: Fri Mar 10 16:27:58 2023
+[9Cfile name: ~anhtran/Documents/Python_Practice/Ex_Files_Programming_Fou
+[23;80Hn[24;1Hdations_Fundamentals/Exercise Files/.git/COMMIT_EDITMSG
+[10Cmodified: YES
+[9Cuser name: anhtran   host name: Anhs-MacBook-Pro.local
+[8Cprocess ID: 94264
+While opening file "/Users/anhtran/Documents/Python_Practice/Ex_Files_Programmi
+[23;80Hn[24;1Hg_Foundations_Fundamentals/Exercise Files/.git/COMMIT_EDITMSG"
+[13Cdated: Fri Mar 10 16:34:08 2023
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /Users/anhtran/Documents/Pyt
+[23;80Hh[24;1Hon_Practice/Ex_Files_Programming_Foundations_Fundamentals/Exercise Files/.git/C
+[23;80HO[24;1HMMIT_EDITMSG"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/Users/anhtran/Documents/Pyt
+[23;80Hh[24;1H[32m-- More --[?25h[m[24;1H[K[24;1Hon_Practice/Ex_Files_Programming_Foundations_Fundamentals/Exercise Files/.git/.
+[23;80HC[24;1H[32m-- More --[m[24;1H[K[24;1HOMMIT_EDITMSG.swp"
+[32m-- More --[m[24;1H[K[24;5Hto avoid this message.
+[32m-- More -- SPACE/d/j: screen/page/line down, b/u/k: up, q: quit [?2004l[>4;m[m[?1004l[?2004l[?1l>[>4;m[?1049lVim: Error reading input, exiting...
+Vim: Finished.
+[24;1HVim: Error reading input, exiting...
+Vim: Finished.
+[24;1H[23;2t[23;1t
